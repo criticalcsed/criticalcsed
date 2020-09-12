@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Critical CS Education
 description: A website for the NSF-funded Justice-Focused Secondary CS Education project, which is investigating how to prepare justice-focused middle and high school CS teachers.
 show_downloads: false
-logo: images/logo.png
+logo: assets/images/logo.png
