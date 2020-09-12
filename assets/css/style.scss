@@ -6,6 +6,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body {
-  font: 16px/1.5 "Lora", serif;
+  font: 18px/1.8 "Lora", serif;
   font-weight: 400;
+}
+
+h1, h2, h3 {
+  font-family: "Verdana";
+  line-height: 1.6em;
+  font-weight: 700;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 26px;
+}
+
+h3 {
+    font-size: 22px;
 }
