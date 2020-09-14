@@ -24,7 +24,7 @@ Our advisory board includes:
 * [Andrew Shouse](https://www.linkedin.com/in/andrew-shouse-911123a5/), Chief Program Officer at Washington STEM
 * [Adam Smith](https://www.linkedin.com/in/adam-smith-2a144b76/), CTE Director in Cheney School District, CS teacher, and chapter co-president of CSTA Spokane.
 * [Cheri Bortelson](https://www.linkedin.com/in/cbortleson/), CS curriculum developer at Bellevue School District.
-* [William Benuel](https://www.colorado.edu/education/william-penuel), expert on researcher-practitioner partnerships.
+* [William Penuel](https://www.colorado.edu/education/william-penuel), expert on researcher-practitioner partnerships.
 * [Niral Shah](https://education.uw.edu/people/niral), an expert on racial and gender equity in STEM education.
 * [Katie Headrick Taylor](https://education.uw.edu/people/faculty/kht126), an expert on digitally-mediated, intergenerational learning.
 
