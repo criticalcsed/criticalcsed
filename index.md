@@ -23,6 +23,12 @@ Our Ph.D. students include:
 
 * [Jayne Everson](http://jayneeverson.com). Jayne is a PhD student in the Paul G. Allen School of Computer Science and Engineering, and a former high school math, science, and CS teacher. She is interested in tools to support project-based learning in CS.
 
+Other contributors to teaching and research include:
+
+* [Brett Wortzman](https://homes.cs.washington.edu/~brettwo/), who is teaching one of the endorsement classes in CS teaching methods.
+* [Neil Ryan](http://neildryan.com), who has contributed to the book's chapter on computers.
+* [Matt Davidson](https://www.linkedin.com/in/matt-davidson-he-him-92379916/?trk=public_profile_browsemap_profile-result-card_result-card_full-click), who has contributed to the book's chapter on assessment.
+
 Our advisory board includes:
 
 * [Andrew Shouse](https://www.linkedin.com/in/andrew-shouse-911123a5/), Chief Program Officer at Washington STEM
