@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: mmistakes/jekyll-theme-basically-basic
 title: Critical CS Ed
 description: An NSF-funded project investigating how to prepare justice-focused middle and high school CS teachers.
 show_downloads: false
