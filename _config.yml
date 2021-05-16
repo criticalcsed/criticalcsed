@@ -1,3 +1,6 @@
 remote-theme: mmistakes/jekyll-theme-basically-basic
 title: Critical CS Ed
+url: https://criticalcsed.org
+author: Amy J. Ko
+lang: en-US
 description: An NSF-funded project investigating how to prepare justice-focused middle and high school CS teachers.
