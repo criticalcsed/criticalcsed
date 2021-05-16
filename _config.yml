@@ -1,4 +1,4 @@
-remote-theme: mmistakes/jekyll-theme-basically-basic
+remote-theme: "mmistakes/jekyll-theme-basically-basic"
 title: Critical CS Ed
 url: https://criticalcsed.org
 author: Amy J. Ko
