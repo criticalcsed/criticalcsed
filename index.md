@@ -12,7 +12,7 @@ Our core activities include:
 Throughout these activities, our goal is to broaden participation in CS by diversifying CS teachers, and preparing them to teach in CS culturally-responsive, critically conscious ways.
 
 ## Our team
-Our core team includes
+Our core team includes:
 
 * [Amy J. Ko, Ph.D.](http://amyjko.com) (PI). Amy is a Professor at the University of Washington [Information School](https://ischool.uw.edu), and an expert in CS teaching and learning, as well as other areas of computer science, including human-computer interaction and software engineering. She directs the [Code & Cognition Lab](http://faculty.washington.edu/ajko/students), which investigates equitable ways for humanity to learn the power and perils of computing.
 * [Anne Beitlers, Ph.D.](https://www.linkedin.com/in/anne-beitlers-241a3939/) (PI). Anne is an Associate Teaching Professor at the University of Washington [College of Education](http://education.uw.edu), and an expert in English education and teaching methods. She directs the [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary-tep), which graduates an annual cohort of justice-focused educators.
