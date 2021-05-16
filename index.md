@@ -1,6 +1,6 @@
 # Preparing Justice-Focused CS Educators
 
-We are researcher-practitioner partnership at the [University of Washington](https://www.washington.edu), [Shoreline School District](https://www.shorelineschools.org), and [Highline School District](http://highlineschools.org) investigating innovative ways to integrate CS education and social justice. Our team combines diverse perspectives and expertise in secondary teacher education, CS education research, administration, and social justice perspectives on computing and society. Our goal is to prepare a new generation of secondary CS educators who center social justice in their teaching, developing students critical consciousness about their relationship to computing in the world.
+We are a researcher-practitioner partnership at the [University of Washington](https://www.washington.edu), [Shoreline School District](https://www.shorelineschools.org), and [Highline School District](http://highlineschools.org) investigating innovative ways to integrate CS education and social justice. Our team combines diverse perspectives and expertise in secondary teacher education, CS education research, administration, and social justice perspectives on computing and society. Our goal is to prepare a new generation of secondary CS educators who center social justice in their teaching, developing students critical consciousness about their relationship to computing in the world.
 
 Our core activities include:
 
@@ -18,6 +18,10 @@ Our core team includes:
 * [Anne Beitlers, Ph.D.](https://www.linkedin.com/in/anne-beitlers-241a3939/) (PI). Anne is an Associate Teaching Professor at the University of Washington [College of Education](http://education.uw.edu), and an expert in English education and teaching methods. She directs the [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary-tep), which graduates an annual cohort of justice-focused educators.
 * [Dan Gallagher, Ed.D.](https://www.linkedin.com/in/dan-gallagher-9a7337133/) (Co-PI). Dan is the Director of Career and Technical Education at [Shoreline School District](https://www.shorelineschools.org) and an expert on researcher-practitioner partnerships.
 * [Juan Lozano](https://www.linkedin.com/in/juan-lozano-27a3822/) (Co-PI). Juan is an Instructional Specialist in Career and Technical Education at [Highline School District](http://highlineschools.org), a high school CS teacher, and a passionate advocate for broadening participation in computing.
+
+Our Ph.D. students include:
+
+* [Jayne Everson](http://jayneeverson.com). Jayne is a PhD student in the Paul G. Allen School of Computer Science and Engineering, and a former high school math, science, and CS teacher. She is interested in tools to support project-based learning in CS.
 
 Our advisory board includes:
 
