@@ -10,8 +10,8 @@ We are a researcher-practitioner partnership at the [University of Washington](h
 
 Our core activities include:
 
-* Writing a free, web accessible book, which will be posted here, presenting justice-framings of CS foundations and methods for teaching those foundations.
-* A new 5th quarter add-on endorsement in the UW College of Education's Secondary Teacher Education Program, graduating up to 20 new secondary CS teachers a year to serve Washington state schools.
+* Writing a [free, online, web accessible book](book/), which will be posted on this website, presenting justice-framings of CS foundations and methods for teaching those foundations.
+* A new 5th quarter add-on endorsement in the UW College of Education's Secondary Teacher Education Program, graduating up to 20 new secondary CS teachers a year to serve Washington state schools. We're calling this [STEP CS](/program).
 * A series of studies about the tensions and opportunities in preparing justice-focused CS educators.
 * Fostering a community of justice-focused CS educators across Washington state, to support professional learning, networking.
 
