@@ -1,6 +1,6 @@
 ---
-title: "About"
 layout: about
+title: About
 image: /assets/images/header.jpg
 ---
 

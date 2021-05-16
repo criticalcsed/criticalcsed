@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /program/
+image: /assets/images/campus.jpg
 ---
 
 # Become a middle or high school CS teacher
