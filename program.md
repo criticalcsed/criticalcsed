@@ -2,6 +2,7 @@
 layout: page
 title: "STEP CS Program"
 image: /assets/images/campus.jpg
+permalink: /program/
 ---
 
 # Become a middle or high school CS teacher
