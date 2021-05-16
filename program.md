@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Program
+title: "STEP CS Program"
 image: /assets/images/campus.jpg
 ---
 
