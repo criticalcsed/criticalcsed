@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-image: /assets/images/header.jpg
+image: /assets/images/teaching.jpg
 ---
 
 # Preparing Justice-Focused CS Educators
