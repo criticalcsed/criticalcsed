@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title: About
 image: /assets/images/header.jpg
 ---
