@@ -12,7 +12,7 @@ Our core activities include:
 
 * Writing a free, web accessible book, which will be posted here, presenting justice-framings of CS foundations and methods for teaching those foundations.
 * A new 5th quarter add-on endorsement in the UW College of Education's Secondary Teacher Education Program, graduating up to 20 new secondary CS teachers a year to serve Washington state schools.
-* A series of studies about the tensions and opportunties in preparing justice-focused CS educators.
+* A series of studies about the tensions and opportunities in preparing justice-focused CS educators.
 * Fostering a community of justice-focused CS educators across Washington state, to support professional learning, networking.
 
 Throughout these activities, our goal is to broaden participation in CS by diversifying CS teachers, and preparing them to teach in CS culturally-responsive, critically conscious ways.
@@ -48,4 +48,4 @@ We expect to grow to include additional instructors, doctoral students, and unde
 
 ## Funding
 
-This material is based upon work supported by the National Science Foundation under [Grant No. 2031265](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031265). Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the National Science Foundation under [Grant No. 2031265](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031265){:target="_blank"}. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
