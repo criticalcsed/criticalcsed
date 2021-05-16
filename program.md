@@ -20,4 +20,10 @@ That additional quarter is all CS, including four courses:
 
 * *EDTEP 602* _Field Experience Computer Science - Secondary_. Practice teaching computer science in a supervised middle or high school placement in partner schools and districts who are working to diversify the teaching field. Candidates critique their own practices and receive feedback on ways to align their practices with equity and justice teaching pedagogy. You'll be placed with a CS teacher and school in Puget Sound, likely in in one of our partner districts in Seattle Public Schools, Highline Schools, or Shoreline Schools.
 
+# How do I get certified to teach?
+
 By the end of the Spring, you'll take the [NES Computer Science exam](https://www.nestest.com/TestView.aspx?f=HTML_FRAG/NT315_TestPage.html){:target="_blank"}, which primarily covers CS content knowledge. Passing this exam certifies you to teach CS in Washington state. You'll have extensive support in preparing for this exam, including learning CS concepts in EDTEP 577 and study groups led by the teaching team.
+
+# What about tuition and fees?
+
+For the Spring 2022 and 2023 cohort (which began in Spring 2021), Spring quarter tuition, fees, and the NES exam fee will be covered by a grant the team has received from the National Science Foundation. The team is seeking funding to subsidize future cohorts.
