@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "STEP CS Program"
+title: "STEP CS"
 image: /assets/images/campus.jpg
 permalink: /program/
 ---
 
-# Interested in being a middle or high school CS teacher in Washington state?
+# Interested in becoming a middle or high school CS teacher in Washington state?
 
 We're creating a pathway for aspiring teachers to do exactly that. The program part of the University of Washington's existing 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social students, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS. This dual-endorsement structure not only makes you a competitive candidate for teaching positions, but positions you well to teach both standalone CS courses, as well as integrate CS into other subject areas that you teach.
 
