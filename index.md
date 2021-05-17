@@ -11,3 +11,5 @@ The primary resources on this site include:
 * A forthcoming [book](book/) that teaches the foundations of computing with a critical lens, and offers example unit plans for teaching these foundations in middle and high school settings.
 
 * Information about [STEP CS](program/), our new secondary CS teacher education endorsement at the [University of Washington](http://uw.edu) [College of Education](http://education.uw.edu).
+
+Interested in who we are? Learn more about [our team](about/).

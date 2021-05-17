@@ -3,4 +3,6 @@ google_fonts:
   - name: "Fira Sans"
     weights: "400,400i,600,600i"
 navigation_pages:
+  - about.md
+  - book.md
   - program.md

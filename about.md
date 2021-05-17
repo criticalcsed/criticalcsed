@@ -2,6 +2,7 @@
 layout: page
 title: "About our partnership"
 image: /assets/images/seattle.jpg
+permalink: /about/
 ---
 
 We're a researcher-practitioner partnership at the [University of Washington](https://www.washington.edu), [Shoreline School District](https://www.shorelineschools.org), and [Highline School District](http://highlineschools.org) investigating innovative ways to integrate CS education and social justice. Our team combines diverse perspectives and expertise in secondary teacher education, CS education research, administration, and social justice perspectives on computing and society. Our goal is to prepare a new generation of secondary CS educators who center social justice in their teaching, developing students critical consciousness about their relationship to computing in the world.
