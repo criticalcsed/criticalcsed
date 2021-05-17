@@ -7,11 +7,15 @@ permalink: /program/
 
 # Become a middle or high school CS teacher
 
-Are you curious about becoming a middle or high school CS teacher in Washington state? We're creating a pathway for aspiring teachers to do exactly that. The program part of the University of Washington's existing 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary){:target="_blank"}, which runs from Spring each year (starting in April), through the next Winter (ending in April). We're creating what's called an "5th quarter add-on" endorsement, which means that teacher candidates enroll in the 1-year degree, earns a first endorsement in math, science, social students, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS.
+Are you curious about becoming a middle or high school CS teacher in Washington state? 
 
-## Do I have to have a CS background?
+We're creating a pathway for aspiring teachers to do exactly that. The program part of the University of Washington's existing 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social students, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS. This dual-endorsement structure not only makes you a competitive candidate for teaching positions, but positions you well to teach both standalone CS courses, as well as integrate CS into other subject areas that you teach.
 
-No. The only CS content knowledge we expect teachers to have is some preliminary exposure to programming, through an introductory programming course or some other source of experience. We will teach much of the CS content knowledge needed to teach a range of middle and high school courses; having more extensive CS experience will simply broaden your range.
+## Do I have to have a CS background to enroll?
+
+No. The only CS content knowledge we expect teachers to have is some preliminary exposure to programming, through an [introductory programming course](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses) would suffice, as would any practical experience with programming. We will teach much of the CS content knowledge needed to teach a range of middle and high school courses; having more extensive CS experience will simply broaden your range.
+
+For those with more substantial CS backgrounds (several courses, a bachelor's degree, or perhaps experience as a professional software developer), this program is an opportunity to learn foundational concepts in CS teaching.
 
 ## What courses does the endorsement include?
 
@@ -32,3 +36,11 @@ By the end of the Spring, you'll take the [NES Computer Science exam](https://ww
 # What about tuition and fees?
 
 For the Spring 2022 and 2023 cohort (which began in Spring 2021), Spring quarter tuition, fees, and the NES exam fee will be covered by a grant the team has received from the National Science Foundation. The team is seeking funding to subsidize future cohorts.
+
+# How do I apply?
+
+To apply to the Secondary Masters in Teaching program, first review the [admissions requirements](https://education.uw.edu/programs/teacher/secondary/apply-now/application%20requirements) and the [online application](https://education.washington.edu/admissions/preparing-your-application-uw-college-education). All secondary candidates have a range of exams to complete prior to applying. You'll want to think carefully about which endorsement area in addition to CS you'd like to pursue (math, science, social studies, language arts, or world languages), and be sure to complete the coursework necessary for those specific endorsements prior to applying.
+
+The [deadlines](https://education.uw.edu/admissions/deadlines?_ga=2.132379149.263362124.1621211241-27049089.1577997472) for the program are the **beginning of October** each year, for Spring start the following calendar year. That means you'll want to prepare materials and ask any questions that you have the summer before you want to apply.
+
+Reach out to the College for any questions about the Masters in Teaching. If you have questions about the CS endorsement, you can reach Professor [Amy J. Ko](mailto:ajko@uw.edu) with any questions.
