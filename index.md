@@ -1,10 +1,14 @@
 ---
 layout: page
-title: "Raising critical consciousness in CS education"
+title: "Imagining more critically conscious CS education"
 image: /assets/images/teaching.jpg
 ---
 
-Welcome to the Critical CS Education resource site! We're a researcher-practitioner partnership at the [University of Washington](https://www.washington.edu), [Shoreline School District](https://www.shorelineschools.org), and [Highline School District](http://highlineschools.org) investigating innovative ways to integrate CS education and social justice. As part of this partnership, we've created this site to help current and aspiring CS educators bring critical perspectives into their CS teaching. Our work particularly focuses on secondary and post-secondary perspectives, but the resources on this site can be useful in any learning context.
+Computing has transformed society in magical ways, while at the same time amplifying inequality, inequity, and systems of oppression. How do we teach Computer Science in a way that helps youth harness its power, while also recognizing its capacity for harm?
+
+We're a researcher-practitioner partnership  centered at the [University of Washington](https://www.washington.edu) that's trying to answer this question. In parnership with [Shoreline School District](https://www.shorelineschools.org) and [Highline School District](http://highlineschools.org), we're investigating innovative ways to integrate CS education and social justice. 
+
+This website is where we share our findings, as well as other resources we've curated from across the world. Our work particularly focuses on secondary and post-secondary settings, but the resources on this site might be useful in any learning context.
 
 The primary resources on this site include:
 
