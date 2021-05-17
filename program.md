@@ -5,9 +5,7 @@ image: /assets/images/campus.jpg
 permalink: /program/
 ---
 
-# Become a middle or high school CS teacher
-
-Are you curious about becoming a middle or high school CS teacher in Washington state? 
+# Interested in being a middle or high school CS teacher in Washington state?
 
 We're creating a pathway for aspiring teachers to do exactly that. The program part of the University of Washington's existing 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social students, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS. This dual-endorsement structure not only makes you a competitive candidate for teaching positions, but positions you well to teach both standalone CS courses, as well as integrate CS into other subject areas that you teach.
 
@@ -29,15 +27,15 @@ That additional quarter is all CS, including four courses:
 
 * **EDTEP 602** _Field Experience Computer Science - Secondary_. Practice teaching computer science in a supervised middle or high school placement in partner schools and districts who are working to diversify the teaching field. Candidates critique their own practices and receive feedback on ways to align their practices with equity and justice teaching pedagogy. You'll be placed with a CS teacher and school in Puget Sound, likely in in one of our partner districts in Seattle Public Schools, Highline Schools, or Shoreline Schools.
 
-# How do I get certified to teach?
+## How do I get certified to teach?
 
 By the end of the Spring, you'll take the [NES Computer Science exam](https://www.nestest.com/TestView.aspx?f=HTML_FRAG/NT315_TestPage.html){:target="_blank"}, which primarily covers CS content knowledge. Passing this exam certifies you to teach CS in Washington state. You'll have extensive support in preparing for this exam, including learning CS concepts in EDTEP 577 and study groups led by the teaching team.
 
-# What about tuition and fees?
+## What about tuition and fees?
 
 For the Spring 2022 and 2023 cohort (which began in Spring 2021), Spring quarter tuition, fees, and the NES exam fee will be covered by a grant the team has received from the National Science Foundation. The team is seeking funding to subsidize future cohorts.
 
-# How do I apply?
+## How do I apply?
 
 To apply to the Secondary Masters in Teaching program, first review the [admissions requirements](https://education.uw.edu/programs/teacher/secondary/apply-now/application%20requirements) and the [online application](https://education.washington.edu/admissions/preparing-your-application-uw-college-education). All secondary candidates have a range of exams to complete prior to applying. You'll want to think carefully about which endorsement area in addition to CS you'd like to pursue (math, science, social studies, language arts, or world languages), and be sure to complete the coursework necessary for those specific endorsements prior to applying.
 
