@@ -12,4 +12,6 @@ The primary resources on this site include:
 
 * Information about [STEP CS](program/), our new secondary CS teacher education endorsement at the [University of Washington](http://uw.edu) [College of Education](http://education.uw.edu).
 
+In addition to the above, we plan to add sections with links to teaching materials, curricula, recommended readings, and communities of other CS educators.
+
 Interested in who we are? Learn more about [our team](about/).
