@@ -23,7 +23,9 @@ For those with more substantial CS backgrounds (several courses, a bachelor's de
 
 ## What courses does the endorsement include?
 
-That additional quarter is all CS, including four courses:
+The course are taught by faculty in across the [College of Education](http://education.uw.edu), [The Information School|http://ischool.uw.edu], and the [Paul G. Allen School of Computer Science & Engineering](http://cs.washington.edu), all with extensive experience teaching CS in middle and/or high school. 
+
+The additional 5th quarter includes four CS-specific courses:
 
 * **EDTEP 577** _Justice and Equity in Computer Science Teaching_. This course covers foundational intersections between computer science content knowledge and issues of diversity, equity, inclusion, and justice. Addresses these issues in the computer science classroom, as well as society more broadly, developing critical consciousness of computer science and society. This course is taught by Professor [Amy Ko](http://faculty.washington.edu/ajko/){:target="_blank"}, who is an experienced higher education and high school CS teacher, but also a leading researcher in CS education.
 
