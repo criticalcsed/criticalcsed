@@ -23,7 +23,7 @@ For those with more substantial CS backgrounds (several courses, a bachelor's de
 
 ## What courses does the endorsement include?
 
-The course are taught by faculty in across the [College of Education](http://education.uw.edu), [The Information School|http://ischool.uw.edu], and the [Paul G. Allen School of Computer Science & Engineering](http://cs.washington.edu), all with extensive experience teaching CS in middle and/or high school. 
+The course are taught by faculty in across the [College of Education](http://education.uw.edu), [The Information School](http://ischool.uw.edu), and the [Paul G. Allen School of Computer Science & Engineering](http://cs.washington.edu), all with extensive experience teaching CS in middle and/or high school.
 
 The additional 5th quarter includes four CS-specific courses:
 
