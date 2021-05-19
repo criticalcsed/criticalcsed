@@ -7,7 +7,11 @@ permalink: /program/
 
 # Interested in becoming a middle or high school CS teacher in Washington state?
 
-We're creating a pathway for aspiring teachers to do exactly that. The program part of the University of Washington's existing 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social students, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS. This dual-endorsement structure not only makes you a competitive candidate for teaching positions, but positions you well to teach both standalone CS courses, as well as integrate CS into other subject areas that you teach.
+We're creating a pathway for aspiring teachers to do exactly that. And it couldn't be more needed: fewer than [half of middle and high schools](https://www.csforallwa.org/for-all) in Washington state teach any CS, and when they do, only a fraction of students engage. Less than 1% of students in Washington state learn anything about CS. Additionally, 90% of CS teachers in Washington state are White men or women, even though only 75% of Washington youth are White. Schools desperately need teachers of color in the classroom, across the state.
+
+The new program is part of the University of Washington's existing top-ranked 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social students, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS. 
+
+This dual-endorsement structure not only makes you a competitive candidate for teaching positions, but positions you well to teach both standalone CS courses, as well as integrate CS into other subject areas that you teach.
 
 Don't see your question below? Write Professor [Amy J. Ko](mailto:ajko@uw.edu) and she'll answer it!
 
@@ -15,7 +19,7 @@ Don't see your question below? Write Professor [Amy J. Ko](mailto:ajko@uw.edu) a
 
 No. The only CS content knowledge we expect teachers to have is some preliminary exposure to programming, through an [introductory programming course](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses) would suffice, as would any practical experience with programming. We will teach much of the CS content knowledge needed to teach a range of middle and high school courses; having more extensive CS experience will simply broaden your range.
 
-For those with more substantial CS backgrounds (several courses, a bachelor's degree, or perhaps experience as a professional software developer), this program is an opportunity to learn foundational concepts in CS teaching.
+For those with more substantial CS backgrounds (several courses, a bachelor's degree, or perhaps experience as a professional software developer), this program is an opportunity to learn foundational concepts in teaching in general, as well as CS teaching and one other subject area. Knowing CS isn't the same as knowing how to teach CS; this program will teach you the foundational skills for being an outstanding teacher.
 
 ## What courses does the endorsement include?
 
@@ -31,11 +35,13 @@ That additional quarter is all CS, including four courses:
 
 ## How do I get certified to teach?
 
-By the end of the Spring, you'll take the [NES Computer Science exam](https://www.nestest.com/TestView.aspx?f=HTML_FRAG/NT315_TestPage.html){:target="_blank"}, which primarily covers CS content knowledge. Passing this exam certifies you to teach CS in Washington state. You'll have extensive support in preparing for this exam, including learning CS concepts in EDTEP 577 and study groups led by the teaching team.
+Before you graduate, you'll take the [NES Computer Science exam](https://www.nestest.com/TestView.aspx?f=HTML_FRAG/NT315_TestPage.html){:target="_blank"}, which primarily covers CS content knowledge. Passing this exam certifies you to teach CS in Washington state. You'll have extensive support in preparing for this exam, including learning CS concepts in EDTEP 577 and study groups led by the teaching team. If you're already confident in your CS content knowledge, you can take the exam at any time before you start teaching.
 
 ## What about tuition and fees?
 
-For the Spring 2022 and 2023 cohort (which began in Spring 2021), Spring quarter tuition, fees, and the NES exam fee will be covered by a grant the team has received from the National Science Foundation. The team is seeking funding to subsidize future cohorts.
+For the Spring 2022 and 2023 cohort (which began in Spring 2021), Spring quarter tuition, fees, and the NES exam fee will be covered by a grant the team has received from the National Science Foundation. Support will come in the form of stipends, which candidates can use to cover their costs. The team is seeking funding to subsidize future cohorts.
+
+If demand exceeds our resources, we will prioritize stipends for candidates underrepresented amongst secondary CS teachers, particularly Black, Hispanic, Native, and Asian candidates, and candidates with disabilities.
 
 ## How do I apply?
 
