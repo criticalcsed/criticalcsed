@@ -23,7 +23,7 @@ For those with more substantial CS backgrounds (several courses, a bachelor's de
 
 ## Do I have to be a STEP student to participate?
 
-Two groups can particpate:
+Two groups can participate:
 
 * Fully-enrolled STEP graduate students staying for a 5th quarter.
 * In-service teachers with prior teaching experience who want deeper preparation in critical CS pedagogy. Teachers can enroll à la carte in individual courses.
