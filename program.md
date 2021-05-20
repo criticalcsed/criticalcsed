@@ -21,6 +21,15 @@ No. The only CS content knowledge we expect teachers to have is some preliminary
 
 For those with more substantial CS backgrounds (several courses, a bachelor's degree, or perhaps experience as a professional software developer), this program is an opportunity to learn foundational concepts in teaching in general, as well as CS teaching and one other subject area. Knowing CS isn't the same as knowing how to teach CS; this program will teach you the foundational skills for being an outstanding teacher.
 
+## Do I have to be a STEP student to participate?
+
+Two groups can particpate:
+
+* Fully-enrolled STEP graduate students staying for a 5th quarter.
+* In-service teachers with prior teaching experience who want deeper preparation in critical CS pedagogy. Teachers can enroll à la carte in individual courses.
+
+Undergraduates may not participate; the program assumes at least a year of full-time education or experience in secondary teaching. However, we highly encourage you to apply to STEP to get this experience!
+
 ## What courses does the endorsement include?
 
 The course are taught by faculty in across the [College of Education](http://education.uw.edu), [The Information School](http://ischool.uw.edu), and the [Paul G. Allen School of Computer Science & Engineering](http://cs.washington.edu), all with extensive experience teaching CS in middle and/or high school.
