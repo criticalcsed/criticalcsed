@@ -60,4 +60,9 @@ To apply to the Secondary Masters in Teaching program, first review the [admissi
 
 The [deadlines](https://education.uw.edu/admissions/deadlines?_ga=2.132379149.263362124.1621211241-27049089.1577997472) for the program are the **beginning of October** each year, for Spring start the following calendar year. That means you'll want to prepare materials and ask any questions that you have the summer before you want to apply.
 
+If you're currently an undergrad, here are a few possible timelines:
+
+* _Apply in Autumn, graduate in Winter, start in Spring_. This doesn't leave much time for a break, but doesn't require planning any gap time.
+* _Graduate in Spring, apply in Autumn, start the next Spring_. This offers a 9 month gap, which is time for a break and time to work. You can even apply to substitute teach without certification, giving you a bit of experience in secondary classrooms before you begin.
+
 Reach out to the College for any questions about the Masters in Teaching. If you have questions about the CS endorsement, you can reach Professor [Amy J. Ko](mailto:ajko@uw.edu) with any questions.
