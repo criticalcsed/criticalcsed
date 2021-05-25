@@ -31,7 +31,7 @@ Our Ph.D. students include:
 Other contributors to teaching and research include:
 
 * [Brett Wortzman](https://homes.cs.washington.edu/~brettwo/), who is teaching one of the endorsement classes in CS teaching methods.
-* [Neil Ryan](http://neildryan.com), who has contributed to the book's chapter on computers.
+* [Mara Kirdani-Ryan](https://marakr.com), who has contributed to the book's chapter on computers.
 * [Matt Davidson](https://www.linkedin.com/in/matt-davidson-he-him-92379916/?trk=public_profile_browsemap_profile-result-card_result-card_full-click), who has contributed to the book's chapter on assessment.
 
 Our advisory board includes:
