@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resources"
-image: /assets/images/communities.jpg
+image: /assets/images/resources.jpg
 permalink: /resources/
 ---
 
