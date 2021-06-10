@@ -18,4 +18,6 @@ The primary resources on this site include:
 
 * Access to [communities of CS teachers](communities/).
 
+* A curated collection of [resources on critical CS pedagogy](resources/).
+
 In addition to the above, we plan to add sections with links to teaching materials, curricula, recommended readings, and communities of other CS educators.
