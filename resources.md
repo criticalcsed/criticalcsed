@@ -19,4 +19,4 @@ We've been developing short 2-page practice briefs that help teachers and school
 
 Below are novels and novellas suitable for middle and high school youth:
 
-* [Our Reality|https://homes.cs.washington.edu/~yoshi/OurReality.html] (by Tadayoshi Kohno) is a novella set in 2024 that explores questions of race, surveillance, and augmented reality. It's a great option for middle or high school classrooms that want to examine the intersections of technology, ethics, policy, and race.
+* [Our Reality](https://homes.cs.washington.edu/~yoshi/OurReality.html) (by Tadayoshi Kohno) is a novella set in 2024 that explores questions of race, surveillance, and augmented reality. It's a great option for middle or high school classrooms that want to examine the intersections of technology, ethics, policy, and race.
