@@ -17,7 +17,7 @@ We've been developing short 2-page practice briefs that help teachers and school
 
 The Mozilla Foundation has also compiled several short practice briefs:
 
-* [Teaching Responsible Computing Playbook](https://foundation.mozilla.org/en/what-we-fund/awards/teaching-responsible-computing-playbook/), covers accessibility, ethics, broadening participation, employement choices, difficult conversations, managing resistance, unintended consequences, and more.
+* [Teaching Responsible Computing Playbook](https://foundation.mozilla.org/en/what-we-fund/awards/teaching-responsible-computing-playbook/), covers accessibility, ethics, broadening participation, employment choices, difficult conversations, managing resistance, unintended consequences, and more.
 
 # Fiction
 
