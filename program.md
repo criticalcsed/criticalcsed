@@ -17,7 +17,7 @@ Don't see your question below? Write Professor [Amy J. Ko](mailto:ajko@uw.edu) a
 
 ## Do I have to have a CS background to enroll?
 
-No. The only CS content knowledge we expect teachers to have is some preliminary exposure to programming, through an [introductory programming course](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses) would suffice, as would any practical experience with programming. We will teach much of the CS content knowledge needed to teach a range of middle and high school courses; having more extensive CS experience will broaden your range.
+No. The only CS content knowledge we expect teachers to have is some exposure to programming. An [introductory programming course](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses) would suffice, as would any practical experience with programming equivalent to a 1-quarter or 1-semester programming course. We will teach much of the CS content knowledge needed to teach a range of middle and high school courses; having more extensive CS experience will broaden your range. The program will likely involve using and learning a combination of Python and Scratch.
 
 For those with more substantial CS backgrounds (several courses, a bachelor's degree, or perhaps experience as a professional software developer), this program is an opportunity to learn foundational concepts in teaching in general, as well as CS teaching and one other subject area. Knowing CS isn't the same as knowing how to teach CS; this program will teach you the foundational skills for being an outstanding, equity and justice-focused CS teacher.
 
