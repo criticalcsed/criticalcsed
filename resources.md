@@ -30,3 +30,7 @@ Below are novels and novellas suitable for middle and high school youth:
 Below are other collections of resources, like this one.
 
 * [Computers and Society](https://computers-society.org). This website, organized by several scholars of computing, ethics, and society, organizes resources for learning and thinking ethically about computing.
+
+# Units, Lessons, and Modules
+
+* [Ethical Reflection Modules for CS 1|https://ethicalcs.github.io]. This collection by [Evan Peck|http://www.eg.bucknell.edu/~emp017/] at [Bucknell University|https://www.bucknell.edu] has several activities that integrate critical consciousness into introductory programming courses.
