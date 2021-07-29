@@ -33,6 +33,8 @@ Below are other collections of resources, like this one.
 
 * [Computers and Society](https://computers-society.org). This website, organized by several scholars of computing, ethics, and society, organizes resources for learning and thinking ethically about computing.
 
+* [REAL-CS Student Voices](https://centerx.gseis.ucla.edu/computer-science-equity-project/student-voice/). This project contains videos, books, and other materials on marginalization in K-12 CS, and including a video that amplifies [student voices in CS](https://www.youtube.com/watch?v=TcjGHS7SdT4).
+
 # Units, Lessons, and Modules
 
 * [Ethical Reflection Modules for CS 1](https://ethicalcs.github.io). This collection by [Evan Peck](http://www.eg.bucknell.edu/~emp017/) at [Bucknell University](https://www.bucknell.edu) has several activities that integrate critical consciousness into introductory programming courses.Fixe
