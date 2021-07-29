@@ -25,6 +25,8 @@ Below are novels and novellas suitable for middle and high school youth:
 
 * [Our Reality](https://homes.cs.washington.edu/~yoshi/OurReality.html) (by Tadayoshi Kohno) is a novella set in 2024 that explores questions of race, surveillance, and augmented reality. It's a great option for middle or high school classrooms that want to examine the intersections of technology, ethics, policy, and race.
 
+* [Power Up!](https://centerx.gseis.ucla.edu/computer-science-equity-project/student-voice/power-up-graphic-novel/) (by Jean J. Ryoo, Jane Margolis, and Charis JB), is a graphic novel about students taking a stand against how computing is used in their schools.
+
 # Collections
 
 Below are other collections of resources, like this one.
