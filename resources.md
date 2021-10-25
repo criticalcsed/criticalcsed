@@ -35,6 +35,14 @@ Below are other collections of resources, like this one.
 
 * [REAL-CS Student Voices](https://centerx.gseis.ucla.edu/computer-science-equity-project/student-voice/). This project contains videos, books, and other materials on marginalization in K-12 CS, and including a video that amplifies [student voices in CS](https://www.youtube.com/watch?v=TcjGHS7SdT4).
 
+* [Algorithms and Society YouTube Channel](https://www.youtube.com/channel/UCLD2WeaHwDpXKDc12fiP5ag/videos). This collection of videos discuss issues at the intersection of algorithms and social issues.
+
 # Units, Lessons, and Modules
 
-* [Ethical Reflection Modules for CS 1](https://ethicalcs.github.io). This collection by [Evan Peck](http://www.eg.bucknell.edu/~emp017/) at [Bucknell University](https://www.bucknell.edu) has several activities that integrate critical consciousness into introductory programming courses.Fixe
+* [Ethical Reflection Modules for CS 1](https://ethicalcs.github.io). This collection by [Evan Peck](http://www.eg.bucknell.edu/~emp017/) at [Bucknell University](https://www.bucknell.edu) has several activities that integrate critical consciousness into introductory programming courses.
+
+* [Tech Ethics Syllabi](https://cfiesler.medium.com/tech-ethics-curricula-a-collection-of-syllabi-3eedfb76be18). This collection of course syllabi details the many ways that faculty are teaching ethics in the context of CS education.
+
+* [Humanities CS1](https://github.com/jwm462/Humanities-CS1). A collection of assignments, readings, and discussions for a course on programming, science and technology studies, and social justice.
+
+* [Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html). An online textbook that teachers Python at the intersection of humanities and social sciences.
