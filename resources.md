@@ -46,3 +46,7 @@ Below are other collections of resources, like this one.
 * [Humanities CS1](https://github.com/jwm462/Humanities-CS1). A collection of assignments, readings, and discussions for a course on programming, science and technology studies, and social justice.
 
 * [Cultural Analytics](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html). An online textbook that teachers Python at the intersection of humanities and social sciences.
+
+* [Microsoft's Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). This curriculum covers some aspects of algorithmic bias.
+
+* [Microsoft's Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners). This curriculum covers some aspects of data and classification bias.
