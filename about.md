@@ -34,6 +34,7 @@ Other contributors to teaching and research include:
 * [Mara Kirdani-Ryan](https://marakr.com), who has contributed to the book's chapter on computers.
 * [Matt Davidson](https://www.linkedin.com/in/matt-davidson-he-him-92379916/?trk=public_profile_browsemap_profile-result-card_result-card_full-click), who has contributed to the book's chapter on assessment.
 * [Alannah Oleson](http://alannaholeson.com), who has contributed to the book's chapter on design.
+* [Stefania Druga](https://stefania11.github.io), who has contributed to the book's chapter on AI.
 
 Our advisory board includes:
 
