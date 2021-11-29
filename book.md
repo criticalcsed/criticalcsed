@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Upcoming Book"
-image: /assets/images/book.jpg
+title: "Critically Conscious Computing: Methods for Secondary Education"
+image: /assets/images/book.png
 permalink: /book/
 ---
 
-Throughout 2021, we're writing a book to support secondary CS teacher education, tentatively titled _Critically Conscious Computing: Methods for Secondary Education_. While there are many books that concern CS teaching, this book will be unique in its focus on critical pedagogy. It will teach foundational ideas in Computer Science, but through a social justice lens, and then offer several teaching methods for teaching these foundations ways that raise students' critical conscious.
+While there are many books that concern CS teaching, few use a critical lens to examine CS and CS education. This book is one of the first to approach CS critically, teaching foundational ideas in Computer Science through a social justice lens, and then offering several teaching methods for teaching these foundations ways that raise students' critical conscious about computing in their lives and society more broadly.
 
-We expect to release the book here, online, for free, by **Autumn 2021**.
+Read the book for free online at [criticallyconsciouscomputing.org](https://criticallyconsciouscomputing.org).
