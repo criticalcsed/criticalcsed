@@ -5,7 +5,7 @@ image: /assets/images/resources.jpg
 permalink: /resources/
 ---
 
-We're curating a list of resources for critical CS pedagogy.
+We're curating a list of resources for critical CS pedagogy below. Do you have a resource you'd like to add? Send them to <a href="mailto:ajko@uw.edu">Amy</a> for inclusion!
 
 # Practice Briefs
 
