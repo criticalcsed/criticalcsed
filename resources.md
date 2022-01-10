@@ -50,3 +50,9 @@ Below are other collections of resources, like this one.
 * [Microsoft's Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners). This curriculum covers some aspects of algorithmic bias.
 
 * [Microsoft's Machine Learning for Beginners](https://github.com/microsoft/ML-For-Beginners). This curriculum covers some aspects of data and classification bias.
+
+# Communities
+
+* [Algorithmic Justice League](https://ajl.org). Raises awareness about the impacts of AI and organizes to enable an AI ecosystem toward equitable and accountable AI.
+
+* [Design Justice](https://designjustice.org). Organizers designers who want to use design to sustain, heal, and empower communities, rather than exploit and oppress.
