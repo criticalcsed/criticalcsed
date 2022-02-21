@@ -15,6 +15,10 @@ This dual-endorsement structure not only makes you a competitive candidate for t
 
 Don't see your question below? Write Professor [Amy J. Ko](mailto:ajko@uw.edu) and she'll answer it!
 
+## Is this a CTE endorsement?
+
+No, this is Washington state's CS endorsement. Unlike a CTE endorsement, this program focuses fully on CS pedagogy.
+
 ## Do I have to have a CS background to enroll?
 
 No. The only CS content knowledge we expect teachers to have is some exposure to programming. An [introductory programming course](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses) would suffice, as would any practical experience with programming equivalent to a 1-quarter or 1-semester programming course. We will teach much of the CS content knowledge needed to teach a range of middle and high school courses; having more extensive CS experience will broaden your range. The program will likely involve using and learning a combination of Python and Scratch.
@@ -26,7 +30,7 @@ For those with more substantial CS backgrounds (several courses, a bachelor's de
 Two groups can participate:
 
 * Fully-enrolled STEP graduate students staying for a 5th quarter.
-* In-service teachers with prior teaching experience who want deeper preparation in critical CS pedagogy. Teachers can enroll à la carte in individual courses.
+* In-service teachers with prior teaching experience who want deeper preparation in critical CS pedagogy. Teachers can enroll à la carte in individual courses or join for the full program. If you are interested, write [Amy J. Ko](mailto:ajko@uw.edu) for details.
 
 Undergraduates may not participate; the program assumes at least a year of full-time education or experience in secondary teaching. However, we highly encourage you to apply to STEP to get this experience!
 
