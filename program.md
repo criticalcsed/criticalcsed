@@ -7,9 +7,9 @@ permalink: /program/
 
 # Interested in becoming a middle or high school CS teacher in Washington state?
 
-We're creating a [state-approved](https://www.pesb.wa.gov/pathways/becoming-an-educator/find-an-endorsement-offering/) pathway for aspiring teachers to do exactly that. And it couldn't be more needed: fewer than [half of middle and high schools](https://www.csforallwa.org/for-all) in Washington state teach any CS, and when they do, only a fraction of students engage. Less than 1% of students in Washington state learn anything about CS. Additionally, 90% of CS teachers in Washington state are White men or women, even though only 75% of Washington youth are White. Schools desperately need teachers of color in the classroom, across the state.
+Our team offers a [state-approved](https://www.pesb.wa.gov/pathways/becoming-an-educator/find-an-endorsement-offering/) pathway for aspiring teachers to do exactly that. And it couldn't be more needed: fewer than [half of middle and high schools](https://www.csforallwa.org/for-all) in Washington state teach any CS, and when they do, only a fraction of students engage. Less than 1% of students in Washington state learn anything about CS. Additionally, 90% of CS teachers in Washington state are White men or women, even though only 75% of Washington youth are White. Schools desperately need teachers of color in the classroom, across the state.
 
-The new program is part of the University of Washington's existing top-ranked 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary)), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social studies, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS.
+The new program is part of the University of Washington's top-ranked 1-year Masters in Teaching (called STEP, short for [Secondary Teacher Education Program](https://education.uw.edu/programs/teacher/secondary)), which starts in Spring each year. We're creating a 5th quarter add-on endorsement, which means that teacher candidates enroll in the 1-year degree, earn a first endorsement in math, science, social studies, language arts, or world languages, then stay for an additional quarter to earn a second endorsement in CS.
 
 This dual-endorsement structure not only makes you a competitive candidate for teaching positions, but positions you well to teach both standalone CS courses, as well as integrate CS into other subject areas that you teach.
 
@@ -17,7 +17,7 @@ Don't see your question below? Write Professor [Amy J. Ko](mailto:ajko@uw.edu) a
 
 ## Is this a CTE endorsement?
 
-No, this is Washington state's CS endorsement. Unlike a CTE endorsement, this program focuses fully on CS pedagogy.
+No, this is Washington state's CS endorsement. Unlike a CTE endorsement, this program focuses fully on CS teaching.
 
 ## Do I have to have a CS background to enroll?
 
@@ -70,3 +70,7 @@ If you're currently an undergrad, here are a few possible timelines:
 * _Graduate in Spring, apply in Autumn, start the next Spring_. This offers a 9 month gap, which is time for a break and time to work. You can even apply to substitute teach without certification, giving you a bit of experience in secondary classrooms before you begin.
 
 Reach out to the College for any questions about the Masters in Teaching. If you have questions about the CS endorsement, you can reach Professor [Amy J. Ko](mailto:ajko@uw.edu) with any questions.
+
+## Can you send me notifications about updates, deadlines, and funding opportunities?
+
+Yes! Fill out this [interest form](https://docs.google.com/forms/d/e/1FAIpQLSdfco5gWsI9TYGTWKzW1SQUthC_5Ll18XF_ymbm10AAAZS1yw/viewform?usp=sf_link) and we'll send you all of these things.
