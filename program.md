@@ -29,10 +29,11 @@ For those with more substantial CS backgrounds (several courses, a bachelor's de
 
 Two groups can participate:
 
-* Fully-enrolled STEP graduate students staying for a 5th quarter.
-* In-service teachers with prior teaching experience who want deeper preparation in critical CS pedagogy. Teachers can enroll à la carte in individual courses or join for the full program. If you are interested, write [Amy J. Ko](mailto:ajko@uw.edu) for details.
+* Fully-enrolled STEP graduate students staying for a 5th quarter. We will share information throughout your time in STEP and post enrollment information in Winter quarter of each year.
 
-Undergraduates may not participate; the program assumes at least a year of full-time education or experience in secondary teaching. However, we highly encourage you to apply to STEP to get this experience!
+* In-service teachers with prior teaching experience who want deeper preparation in critical CS pedagogy and to pursue the state's CS endorsement. Teachers can enroll in the three pedagogy courses, but skip the field expeirence, for a total of 9 credits. Teachers enroll as [non-matriculated students](https://www.nondegree.uw.edu/tuition-fees/), which are charged per credit, though we often have funding to cover some or all of tuition from state grants. We will post an application form in February of each year; registration occurs in March and classes begin at the end of March/beginning of April through mid-June.
+
+Undergraduates may not participate. The program assumes at least a year of full-time education or experience in secondary teaching. However, we highly encourage you to apply to STEP to pursue middle or high school teaching endorsements in the state.
 
 ## What courses does the endorsement include?
 
