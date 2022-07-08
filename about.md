@@ -9,10 +9,10 @@ We're a researcher-practitioner partnership at the [University of Washington](ht
 
 Our core activities include:
 
-* Writing a [free, online, web accessible book](book/), which will be posted on this website, which will teach foundations of CS from a social justice perspective.
-* A new 5th quarter add-on endorsement in the UW College of Education's Secondary Teacher Education Program, graduating up to 20 new secondary CS teachers a year to serve Washington state schools. We're calling this program [STEP CS](program/).
-* Research on the challenges and opportunities in preparing justice-focused CS educators.
-* Fostering a community of justice-focused CS educators across Washington state and beyond, to support professional learning and networking.
+* Writing a [free, online, web accessible book](book/), which teaches foundations of CS from a social justice perspective.
+* A new 5th quarter add-on endorsement in the UW College of Education's Secondary Teacher Education Program, graduating up to 20 new secondary CS teachers a year to serve Washington state schools. We're calling this program [STEP CS](https://computinged.uw.edu/stepcs/).
+* [Research](https://faculty.washington.edu/ajko/publications) on the challenges and opportunities in preparing justice-focused CS educators.
+* Fostering a [community](https://csforallwa.org/) of justice-focused CS educators across Washington state and beyond, to support professional learning and networking.
 
 Throughout these activities, our goal is to broaden participation in CS by diversifying CS teachers, and preparing them to teach in CS culturally-responsive, critically conscious ways.
 
@@ -27,6 +27,7 @@ Our core team includes:
 Our Ph.D. students include:
 
 * [Jayne Everson](http://jayneeverson.com). Jayne is a PhD student in the Paul G. Allen School of Computer Science and Engineering, and a former high school math, science, and CS teacher. She is interested in tools to support project-based learning in CS.
+* [Megumi Kivuva](https://www.linkedin.com/in/megumikivuva/). Megumi is a PhD student in the The Information School and intersted in identity, belonging, equity, and justice in CS.
 
 Other contributors to teaching and research include:
 
@@ -42,7 +43,6 @@ Our advisory board includes:
 * [Adam Smith](https://www.linkedin.com/in/adam-smith-2a144b76/), CTE Director in Cheney School District, CS teacher, and chapter co-president of CSTA Spokane.
 * [Cheri Bortelson](https://www.linkedin.com/in/cbortleson/), CS curriculum developer at Bellevue School District.
 * [William Penuel](https://www.colorado.edu/education/william-penuel), expert on researcher-practitioner partnerships.
-* [Niral Shah](https://education.uw.edu/people/niral), an expert on racial and gender equity in STEM education.
 * [Katie Headrick Taylor](https://education.uw.edu/people/faculty/kht126), an expert on digitally-mediated, intergenerational learning.
 
 We expect to grow to include additional instructors, doctoral students, and undergraduates.
